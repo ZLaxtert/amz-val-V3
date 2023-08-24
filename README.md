@@ -12,8 +12,8 @@
 ## Install on android (Termux)
     $ pkg install git -y
     $ pkg install php -y
-    $ git clone https://github.com/ZLaxtert/amazon-validator
-    $ cd amazon-validator
+    $ git clone https://github.com/ZLaxtert/amz-val-V3
+    $ cd amz-val-V3
     $ php cli.php
 
 ## NOTE
@@ -26,10 +26,10 @@ JIKA ANDA MENGGUNAKAN PROXY LIST SILAHKAN OPEN FILE 'settings.php' di dalam fold
 - open file 'open.bat'
 - ENJOY :)
 
-mode_proxy = on [untuk menggunakan proxy]\n
-mode_proxy = off [untuk menggunakan proxy]\n
-proxy_list = proxy.txt [nama file proxy anda]\n
-proxy_pwd  = 'isi password proxy anda' [jika proxy anda menggunakan password silahkan isi jika tidak biarkan kosong]\n
+#### mode_proxy = on [untuk menggunakan proxy]
+#### mode_proxy = off [untuk menggunakan proxy]
+#### proxy_list = proxy.txt [nama file proxy anda]
+#### proxy_pwd  = 'isi password proxy anda' [jika proxy anda menggunakan password silahkan isi jika tidak biarkan kosong]
 
 ### ENGLISH LANGUAGE
 
@@ -40,7 +40,7 @@ IF YOU ARE USING A PROXY LIST PLEASE OPEN FILE 'settings.php' in the function fo
 - open file 'open.bat'
 - ENJOY :)
 
-mode_proxy = on [to use proxy]
-mode_proxy = off [to use proxy]
-proxy_list = proxy.txt [name of your proxy file]
-proxy_pwd = 'fill in your proxy password' [if your proxy uses a password please fill in otherwise leave blank]
+#### mode_proxy = on [to use proxy]
+#### mode_proxy = off [to use proxy]
+#### proxy_list = proxy.txt [name of your proxy file]
+#### proxy_pwd = 'fill in your proxy password' [if your proxy uses a password please fill in otherwise leave blank]
