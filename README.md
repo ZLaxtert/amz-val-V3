@@ -27,7 +27,7 @@ JIKA ANDA MENGGUNAKAN PROXY LIST SILAHKAN OPEN FILE 'settings.php' di dalam fold
 - ENJOY :)
 
 #### mode_proxy = on [untuk menggunakan proxy]
-#### mode_proxy = off [untuk menggunakan proxy]
+#### mode_proxy = off [tidak menggunakan proxy]
 #### proxy_list = proxy.txt [nama file proxy anda]
 #### proxy_pwd  = 'isi password proxy anda' [jika proxy anda menggunakan password silahkan isi jika tidak biarkan kosong]
 
@@ -41,6 +41,6 @@ IF YOU ARE USING A PROXY LIST PLEASE OPEN FILE 'settings.php' in the function fo
 - ENJOY :)
 
 #### mode_proxy = on [to use proxy]
-#### mode_proxy = off [to use proxy]
+#### mode_proxy = off [no use proxy]
 #### proxy_list = proxy.txt [name of your proxy file]
 #### proxy_pwd = 'fill in your proxy password' [if your proxy uses a password please fill in otherwise leave blank]
