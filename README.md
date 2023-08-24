@@ -26,19 +26,19 @@ JIKA ANDA MENGGUNAKAN PROXY LIST SILAHKAN OPEN FILE 'settings.php' di dalam fold
 - open file 'open.bat'
 - ENJOY :)
 
-mode_proxy = on [untuk menggunakan proxy]
-mode_proxy = off [untuk menggunakan proxy]
-proxy_list = proxy.txt [nama file proxy anda]
-proxy_pwd  = 'isi password proxy anda' [jika proxy anda menggunakan password silahkan isi jika tidak biarkan kosong]
+mode_proxy = on [untuk menggunakan proxy]\n
+mode_proxy = off [untuk menggunakan proxy]\n
+proxy_list = proxy.txt [nama file proxy anda]\n
+proxy_pwd  = 'isi password proxy anda' [jika proxy anda menggunakan password silahkan isi jika tidak biarkan kosong]\n
 
 ### ENGLISH LANGUAGE
 
 IF YOU ARE USING A PROXY LIST PLEASE OPEN FILE 'settings.php' in the function folder
 
-1. install php on your PC or Laptop (there are many ways on Google)
-2. set up the PHP environment variable (there are many ways on Google)
-3. open file 'open.bat'
-4. ENJOY :)
+- install php on your PC or Laptop (there are many ways on Google)
+- set up the PHP environment variable (there are many ways on Google)
+- open file 'open.bat'
+- ENJOY :)
 
 mode_proxy = on [to use proxy]
 mode_proxy = off [to use proxy]
